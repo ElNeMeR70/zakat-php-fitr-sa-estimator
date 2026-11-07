@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/zakat-php-fitr-sa-estimator",
+  "description": "Zakat Al-Fitr Prophetic Sa' Weight & Household Staple Estimator (مقدر زكاة الفطر بالصاع النبوي والأوزان المعاصرة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
